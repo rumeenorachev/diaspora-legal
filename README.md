@@ -1,7 +1,5 @@
 # 🏫 Diaspora — Plataforma SaaS para academias de idiomas
 
-<img src="images/1. Login.png" width="250">
-
 **Diaspora** es una plataforma SaaS diseñada para **digitalizar la gestión de academias de idiomas** mediante una aplicación móvil conectada a un backend centralizado.
 
 Permite administrar:
@@ -213,15 +211,11 @@ Este repositorio público incluye:
 - capturas de la aplicación
 - explicación funcional de la plataforma
 
-Si deseas revisar el código (empresas, profesores o reclutadores):
-
-📩 Contacta conmigo y te enviaré acceso.
-
 ---
 
 # 🌐 Portfolio
 
-Puedes ver este proyecto en mi portfolio:
+Puedes ver más proyectos como este en mi portfolio:
 
 👉 https://www.rumenorachev.es
 
@@ -232,6 +226,3 @@ Puedes ver este proyecto en mi portfolio:
 **Rumen Orachev**
 
 Desarrollador Full Stack
-
-Proyecto desarrollado como parte de mi formación en  
-**Desarrollo de Aplicaciones Multiplataforma (DAM)**.
