@@ -71,9 +71,3 @@ Más proyectos del autor:
     Programador Full Stack
   </a>
 </span>
-
-# 👤 Autor
-
-**Rumen Orachev**
-
-Desarrollador Full Stack
